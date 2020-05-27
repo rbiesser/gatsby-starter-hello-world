@@ -1,3 +1,39 @@
+# Intro to Gatsby
+
+https://www.gatsbyjs.org/tutorial/
+
+## Install Gatsby
+
+```
+npm install -g gatsby-cli
+```
+
+- install the Gatsby CLI globally using npm
+
+
+## Part One
+
+https://www.gatsbyjs.org/tutorial/part-one/
+
+- demonstrates basic React components and props can be used with Gatsby.
+
+### Deploy
+
+http://surge.sh/
+
+- Consider publishing with Surge
+- Free static web publishing
+
+https://www.netlify.com/
+- Linked below
+- Also free
+
+https://vercel.com/
+- Linked below
+- Also free
+
+---
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
